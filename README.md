@@ -11,16 +11,18 @@ To implement, you need to follow these steps:
 
 Now you can integrate the Open Edition Extension with your dapp. The tokens will mint from your creater core contract, but will follow the logic of this contract extension. 
 
-Sample Creator Core Contract: 
+
+**Sample Creator Core Contract**
 * https://etherscan.io/address/0x6913233ada65330adf01f24f715dffcc60497cc8 (FirstDayOut Creator Core)
 
-Sample Contract Extension: 
+**Sample Contract Extension**
 * https://etherscan.io/address/0x5a2bf870d4c7a94e15d27ccc192b9041920ea8c9 (FirstDayOut Open Edition Extension)
 
-Sample Dapp: 
+**Sample Dapp**
 * https://firstdayout.driftershoots.com
 
-Thank you:
+
+**Thank you**
 - @yungwknd for the initial seed code and review.
 - @pepperonick for the dapp development
 - @jeffreyraefan for the dapp design
